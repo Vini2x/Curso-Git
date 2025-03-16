@@ -4,3 +4,15 @@ git add "texto"
 git commit -m "texto"
 git log mostra todo o historico de commit salvo
 
+# Fluxo de trabalho
+
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretorio criado (git init.)
+3. Editar ou criar arquivos
+4. git status
+5. git add "nome do arquivo"
+6. git status
+7. git commit -m "msg"
+8. git status
+9. voltar para o passo 3
+
