@@ -1,3 +1,5 @@
 - *ls* comando para ver o que esta no diretorio que nos encontramos;
 - *cd* comendo para ir a algum diretorio cd desktop\ ;
 - pwd mostra o caminho absoluto de onde estamos;
+- mkdir "texto" cria nova pasta;
+- cat comando para ver o que tem dentro do arquivo
