@@ -1,2 +1,6 @@
 git init . cria um repo git na pasta atual
+git status
+git add "texto"
+git commit -m "texto"
+git log mostra todo o historico de commit salvo
 
