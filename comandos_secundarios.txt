@@ -2,3 +2,5 @@ este arquivo contem arquivos novos para git
 
 primeiro comando
 segundo comando
+
+comandos mais genericos
